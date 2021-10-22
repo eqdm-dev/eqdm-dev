@@ -10,6 +10,11 @@
   - Host on Netlify  
   - Pull at the 🧶 of the many knowledge capture channels (Notes, Bear.app, Drafts.app, Obsidian, and far to many bespoke markdown files) and share on EQDM  
 </details>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 <!---
 eqdm-dev/eqdm-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
