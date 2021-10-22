@@ -11,17 +11,20 @@
   - Pull at the 🧶 of the many knowledge capture channels (Notes, Bear.app, Drafts.app, Obsidian, and far to many bespoke markdown files) and share on EQDM  
 </details>
 
+<!--
 ### :zap: Recent Activity
+Look for Merge, PRs, Issue Closure
+//-->
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-<!---
+<!--
 eqdm-dev/eqdm-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
---->
+//-->
