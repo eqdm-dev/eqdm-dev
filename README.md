@@ -1,6 +1,5 @@
 # 👋 Hi people of GitHub!
 
-Profile photo by [Daria Gordova on Unsplash](https://unsplash.com/@gordova_photo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   
 <!---
 eqdm-dev/eqdm-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
