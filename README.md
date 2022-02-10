@@ -6,9 +6,9 @@
   <summary>What are we doing now?</summary>
   
   ## 🕵️‍♀️🕵️‍♀️  
-  - Blog using Wowchemy, powered by Hugo  
-  - Host on Netlify  
-  - Pull at the 🧶 of the many knowledge capture channels (Notes, Bear.app, Drafts.app, Obsidian, and far to many bespoke markdown files) and share on EQDM  
+  - Blog using Wowchemy, powered by Hugo.
+  - Host on Netlify.
+  - Pull at the 🧶 of the many routes for knowledge capture and share on EQDM ⚡!
 </details>
 
 <!--
