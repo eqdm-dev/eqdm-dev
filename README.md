@@ -1,4 +1,4 @@
-# 👋 Hi folx!
+# 👋 Howdy!
 
 [EQDM](https://eqdm.dev) is a project for building a place to share resources about modern software development.
 
